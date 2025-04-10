@@ -34,6 +34,7 @@ h6{
 }
 
 body {
+    background-color: rgba(249, 249, 249, 1);
     display: grid;
     grid-template-rows: 6% 94%;
     grid-template-columns: 15% 42.5% 42.5%;
